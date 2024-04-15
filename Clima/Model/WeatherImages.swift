@@ -1,0 +1,66 @@
+//
+//  WeatherImages.swift
+//  Clima
+//
+//  Created by Dmytro Vorobei on 02.04.2024.
+//
+
+import Foundation
+
+let weatherImages = [
+    WeatherImage(200, "cloud.bolt.rain"),
+    WeatherImage(201, "cloud.bolt.rain"),
+    WeatherImage(202, "cloud.bolt.rain"),
+    WeatherImage(210, "cloud.bolt.rain"),
+    WeatherImage(211, "cloud.bolt.rain"),
+    WeatherImage(212, "cloud.bolt.rain"),
+    WeatherImage(221, "cloud.bolt.rain"),
+    WeatherImage(230, "cloud.bolt.rain"),
+    WeatherImage(231, "cloud.bolt.rain"),
+    WeatherImage(232, "cloud.bolt.rain"),
+    WeatherImage(300, "cloud.rain"),
+    WeatherImage(301, "cloud.rain"),
+    WeatherImage(302, "cloud.rain"),
+    WeatherImage(310, "cloud.rain"),
+    WeatherImage(311, "cloud.rain"),
+    WeatherImage(312, "cloud.rain"),
+    WeatherImage(313, "cloud.rain"),
+    WeatherImage(314, "cloud.rain"),
+    WeatherImage(321, "cloud.rain"),
+    WeatherImage(500, "cloud.sun.rain"),
+    WeatherImage(501, "cloud.sun.rain"),
+    WeatherImage(502, "cloud.sun.rain"),
+    WeatherImage(503, "cloud.sun.rain"),
+    WeatherImage(504, "cloud.sun.rain"),
+    WeatherImage(511, "snowflake"),
+    WeatherImage(520, "cloud.rain"),
+    WeatherImage(521, "cloud.rain"),
+    WeatherImage(522, "cloud.rain"),
+    WeatherImage(531, "cloud.rain"),
+    WeatherImage(600, "snowflake"),
+    WeatherImage(601, "snowflake"),
+    WeatherImage(602, "snowflake"),
+    WeatherImage(611, "snowflake"),
+    WeatherImage(612, "snowflake"),
+    WeatherImage(613, "snowflake"),
+    WeatherImage(615, "snowflake"),
+    WeatherImage(616, "snowflake"),
+    WeatherImage(620, "snowflake"),
+    WeatherImage(621, "snowflake"),
+    WeatherImage(622, "snowflake"),
+    WeatherImage(701, "cloud.fog"),
+    WeatherImage(711, "cloud.fog"),
+    WeatherImage(721, "cloud.fog"),
+    WeatherImage(731, "cloud.fog"),
+    WeatherImage(741, "cloud.fog"),
+    WeatherImage(751, "cloud.fog"),
+    WeatherImage(761, "cloud.fog"),
+    WeatherImage(762, "cloud.fog"),
+    WeatherImage(771, "cloud.fog"),
+    WeatherImage(781, "cloud.fog"),
+    WeatherImage(800, "sun.min"),
+    WeatherImage(801, "cloud"),
+    WeatherImage(802, "cloud"),
+    WeatherImage(803, "cloud"),
+    WeatherImage(804, "cloud")
+]
